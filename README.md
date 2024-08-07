@@ -10,7 +10,7 @@
     <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/3b755a6576cc4e99ad9a850eba6062de">
         <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110">
     </a>
-    <a href="https://example.com">
+    <a href="https://www.credly.com/badges/2035803b-7bfc-4d09-bf43-a3e17ee7bce8">
         <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110">
     </a>
     <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0660d1a75024476f85f524907cd24f9d">
