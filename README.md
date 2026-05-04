@@ -16,7 +16,7 @@
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0660d1a75024476f85f524907cd24f9d">
     <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="110" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/6d583412-56df-433a-a88b-c1631ac05aef">
+  <a href="https://www.credly.com/badges/6d583412-56df-433a-a88b-c1631ac05aef/public_url">
     <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="110" />
   </a>
 </p>
